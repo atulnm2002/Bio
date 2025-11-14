@@ -1,0 +1,26 @@
+{
+  "name": "atul-bharadwaj-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Atul Bharadwaj - Full-Stack & Backend Developer",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8000 -o",
+    "dev": "npx http-server -p 8000 -o",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "full-stack",
+    "backend",
+    "resume",
+    "cv"
+  ],
+  "author": "Atul Bharadwaj <atulnmbharadwaj@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atulnm2002/portfolio"
+  }
+}
+
